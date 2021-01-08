@@ -44,3 +44,11 @@ body {
   font-style: italic;
 }
 
+.my-websites {
+  color:  rgb(160, 160, 160);
+  text-align: left;
+  margin: 25px;
+  padding: 25px;
+  background-color: rgb(15, 15, 15);
+  border-radius: 5px;
+}
