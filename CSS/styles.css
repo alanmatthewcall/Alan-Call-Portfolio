@@ -36,6 +36,11 @@ body {
   border-radius: 5px;
 }
 
+.about-me-img {
+  width: 185px;
+  float: right;
+}
+
 .pgh {
   color: darkgoldenrod;
 }
