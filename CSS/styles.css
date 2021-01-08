@@ -13,6 +13,9 @@ body {
 
 .name {
   color: darkgoldenrod;
+  font-family: 'IM Fell Great Primer', serif;
+  font-size: 100px;
+
 }
 
 .intro {
