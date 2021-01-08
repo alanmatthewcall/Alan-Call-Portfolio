@@ -1,4 +1,35 @@
-.profile {
-  width: 300px;
-  float: right;
+body {
+  background-color: rgb(31, 31, 31);
 }
+
+.profile {
+  width: 600px;
+  vertical-align: middle;
+  margin: 75px;
+}
+
+.name {
+  color: rgb(160, 160, 160);
+}
+
+.intro {
+  text-align: center;
+  margin: 25px;
+  padding: 25px;
+  background-color: rgb(15, 15, 15);
+}
+
+.intro-text {
+  color:  rgb(160, 160, 160);
+}
+
+.about-me {
+  color:  rgb(160, 160, 160);
+  text-align: center;
+  margin: 25px;
+  padding: 25px;
+  background-color: rgb(15, 15, 15);
+}
+
+
+
