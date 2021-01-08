@@ -39,6 +39,7 @@ body {
 .about-me-img {
   width: 185px;
   float: right;
+  border-radius: 15px;
 }
 
 .pgh {
@@ -60,6 +61,7 @@ body {
 
 .link {
   color: rgb(58, 58, 58);
+  font-size: 30px;
 }
 
 .link:hover {
