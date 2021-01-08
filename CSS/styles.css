@@ -6,10 +6,13 @@ body {
   width: 600px;
   vertical-align: middle;
   margin: 75px;
+  border: solid darkgoldenrod;
+  border-width: 5px;
+  border-radius: 5px;
 }
 
 .name {
-  color: rgb(160, 160, 160);
+  color: darkgoldenrod;
 }
 
 .intro {
@@ -17,6 +20,7 @@ body {
   margin: 25px;
   padding: 25px;
   background-color: rgb(15, 15, 15);
+  border-radius: 5px;
 }
 
 .intro-text {
@@ -25,11 +29,23 @@ body {
 
 .about-me {
   color:  rgb(160, 160, 160);
-  text-align: center;
+  text-align: left;
   margin: 25px;
   padding: 25px;
   background-color: rgb(15, 15, 15);
+  border-radius: 5px;
 }
 
+.hockey {
+  color: darkgoldenrod;
+  font-weight: bold;
+}
 
+.pgh {
+  color: darkgoldenrod;
+}
+
+.hi {
+  font-style: italic;
+}
 
