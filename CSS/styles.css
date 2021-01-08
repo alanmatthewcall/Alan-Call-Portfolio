@@ -52,3 +52,12 @@ body {
   background-color: rgb(15, 15, 15);
   border-radius: 5px;
 }
+
+.link {
+  color: rgb(58, 58, 58);
+}
+
+.link:hover {
+  color:darkgoldenrod;
+}
+
