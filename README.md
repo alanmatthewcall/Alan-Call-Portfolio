@@ -12,7 +12,7 @@
 
 ## Description
 
-I recently started class at Epicodus and wanted to showcase my projects dating back to my first day there. I will update this portfolio page frequently yo show my progress.
+I recently started class at Epicodus and wanted to showcase my projects dating back to my first day there. I will update this portfolio page frequently to show my progress.
 
 ## Setup
 
@@ -35,6 +35,7 @@ Copyright (c) Alan Call
 
  * Alan Call alanmatthewcall@gmail.com
 
+ 
  ![REAME SCREENSHOT](README-Screenshot.png)
 
 
