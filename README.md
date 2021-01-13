@@ -22,6 +22,10 @@ I recently started class at Epicodus and wanted to showcase my projects dating b
 
 - Open file index.html in your browser.
 
+## OR
+
+[View Here](https://alanmatthewcall.github.io/alan-call-portfolio)
+
 ## Known Bugs
 
 - No known issues
