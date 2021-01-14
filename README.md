@@ -24,7 +24,7 @@ I recently started class at Epicodus and wanted to showcase my projects dating b
 
 ## OR
 
-[View Here](https://alanmatthewcall.github.io/alan-call-portfolio)
+[View Here](https://alanmatthewcall.github.io/Alan-Call-Portfolio/)
 
 ## Known Bugs
 
